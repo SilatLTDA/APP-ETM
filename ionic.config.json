@@ -1,0 +1,9 @@
+{
+  "name": "authRequests",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "df10b83a",
+  "app_id": ""
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1000941967141",
+    "firebase_url": "https://etm-aprob.firebaseio.com",
+    "project_id": "etm-aprob",
+    "storage_bucket": "etm-aprob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000941967141:android:f8f59090be4ce5a3",
+        "android_client_info": {
+          "package_name": "com.co.etm.aprob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000941967141-kmosir53vke85hjfrg31bavsfveq4ll4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTG4f_XP6kUf8f99kuXqrk4r2zA5vNsK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000941967141-kmosir53vke85hjfrg31bavsfveq4ll4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
